@@ -1,0 +1,1 @@
+// Summing up any n numbers and finding average

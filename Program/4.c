@@ -1,3 +1,5 @@
+// Generation of Fibonacci series 0, 1, 1, 2, 3, 5, 8, …..n
+
 #include<stdio.h>    
 int main()    
 {    

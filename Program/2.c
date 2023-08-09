@@ -1,3 +1,5 @@
+// Generation of even number series 2, 4, 6, …..n
+
 #include <stdio.h>
 int main() 
 {

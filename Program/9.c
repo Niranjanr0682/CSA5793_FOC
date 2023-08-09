@@ -1,8 +1,11 @@
+// Summing up 1^2 + 2^2 + 3^2 + 4^2….. +n^2
+
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     int n, sum = 0;
-    printf("Enter a positive integer n: ");
+    printf("Enter n value : ");
     scanf("%d", &n);
     for (int i = 1; i <= n; i++) 
         {sum += i * i;}

@@ -1,0 +1,1 @@
+// Summing up the digits of an integer number

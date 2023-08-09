@@ -1,0 +1,1 @@
+// Exponential series [e-1 = 1 – x/1! + x2/2! – x3/3! + x4/4! . . . . . . ]

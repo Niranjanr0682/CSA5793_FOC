@@ -1,3 +1,5 @@
+// Generation of ODD number series 1, 3, 5, …..n
+
 #include <stdio.h>
 int main() 
 {

@@ -1,3 +1,5 @@
+// Summing up Odd Number series
+
 #include <stdio.h>
 
 int main() 

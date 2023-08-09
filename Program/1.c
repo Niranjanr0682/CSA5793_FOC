@@ -1,3 +1,5 @@
+//Generation of number series 1, 2, 3, 4,…..n
+
 #include <stdio.h>
 int main() 
 {

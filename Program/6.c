@@ -1,3 +1,5 @@
+// Summing up Even Number series
+
 #include <stdio.h>
 
 int main() 
